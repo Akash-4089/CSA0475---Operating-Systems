@@ -27,4 +27,5 @@ int main()
 	avtat/=i;
 	printf("\n\nAverage Waiting Time:%.2f",avwt);
 	printf("\nAverage Turnaround Time:%.2f",avtat);
-}
+} 
+
