@@ -35,4 +35,4 @@ int main()
 			printf("\n%s",fname[i]);
 			}
 			getch();
-	}
+	} 
