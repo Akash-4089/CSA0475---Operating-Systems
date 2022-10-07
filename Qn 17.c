@@ -29,7 +29,7 @@ main()
                     printf("\n");
             }
             else{
-                for(r=0;r<f;r++){
+                for(r=0;r<f;r++){ 
                     c2[r]=0;
                     for(j=i-1;j<n;j--){
                         if(q[r]!=p[j])
