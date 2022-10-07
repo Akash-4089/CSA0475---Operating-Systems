@@ -19,7 +19,7 @@ int main(void) {
   }
   else {
     printf("Unable to create child process.\n");
-  }
+  } 
  
   return EXIT_SUCCESS;
 }
