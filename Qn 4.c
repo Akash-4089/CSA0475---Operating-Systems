@@ -32,7 +32,7 @@
         wt[i]=0;
         for(j=0;j<i;j++)
             wt[i]+=bt[j];
-  
+   
         total+=wt[i];
     }
     avg_wt=(float)total/n;      
