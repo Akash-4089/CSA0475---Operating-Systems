@@ -4,7 +4,7 @@ int main()
 	int i,j,n,a[50],frame[10],no,k,avail,count=0;
     printf("\n ENTER THE NUMBER OF PAGES:\n");
 	scanf("%d",&n);
-    printf("\n ENTER THE PAGE NUMBER :\n");
+    printf("\n ENTER THE PAGE NUMBER :\n"); 
     for(i=1;i<=n;i++)
     	scanf("%d",&a[i]);
     printf("\n ENTER THE NUMBER OF FRAMES :");
