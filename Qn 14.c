@@ -25,7 +25,7 @@ printf("\nEnter number of processes: ");
      }
 printf("\nThe Claim Vector is: ");
      for (i = 0; i < resources; i++)
-{
+{ 
         printf("\t%d", maxres[i]);
 }
      printf("\nThe Allocated Resource Table:\n");
