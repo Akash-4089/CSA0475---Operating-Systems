@@ -30,4 +30,4 @@ int main()
 	fclose(fptr1);
 	fclose(fptr2);
 	return 0;
-}
+} 
