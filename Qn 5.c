@@ -30,7 +30,7 @@ int main()
         bt[i]=bt[pos];
         bt[pos]=temp;
 
-        temp=p[i];
+        temp =p[i];
         p[i]=p[pos];
         p[pos]=temp;
     }
